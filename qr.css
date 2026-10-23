@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: rgb(191, 231, 236);
+    display: grid;
+    place-items: center;
+    font-family: "Balsamiq Sans"
+}
+.box {
+    border-radius: 20px;
+}
+
+.qr-code{
+    border-radius: 15px;
+}
+
+.box{
+    background-color: white;
+    width: 250px;
+    height: 430px;
+}
+
+.sub-box{
+    display: flex;
+    justify-content: center;
+}
+
+.qr-code{
+    margin-top: 12px;
+    width: 225px;
+    height: 240px;
+}
+
+.text-box{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.text-box p{
+    color: rgb(160, 158, 158);
+    font-size: 14px;
+}
+
+
